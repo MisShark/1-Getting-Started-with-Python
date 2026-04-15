@@ -1,2 +1,2 @@
-# Data-preprocessing
-Data preprocessing covers outlier detection and treatment, missing data handling, and feature scaling. Includes practical methods for cleaning datasets, imputing values, and applying normalization or standardization, enabling reliable analysis and improved machine learning performance.
+# Getting Started with Python 
+Introductory Python repository covering core basics: importing libraries, declaring variables, and creating objects using pandas DataFrames. Designed for beginners, it demonstrates fundamental syntax and data handling concepts to build a strong foundation for data analysis and programming.
